@@ -1,3 +1,4 @@
+### This is a copy of INF 554 Final Project, contributer: Tong Wu, Jing Ouyang and Jing Zhou
 ## PROJECT SUMMARY
 ### Inspire
 In this project, we explore the [Yelp dataset](https://www.yelp.com/dataset), especially the restaurant dataset, which contains food genres and ranking(from star 1 to 5). From [Kaggle](https://www.kaggle.com/yelp-dataset/yelp-dataset), we got the Yelp dataset and previous visualization demo which also inspired us to visualize the dataset. We would like to show the unique feature of our target cities. In order to show the features of our dataset, we choose Charlotte, Cleveland, Las Vegas, Madison, Montreal, Phoenix and Toronto to illustrate the diversity among Nothern America. 
